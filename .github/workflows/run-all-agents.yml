@@ -2,7 +2,7 @@ name: Run All GVU Agents
 
 on:
   schedule:
-    - cron: '0 6 * * *'   # daily at 06:00 UTC — adjust to your preferred time
+    - cron: '0 23 * * *'  # 11:00 PM UTC = 9:00 AM AEST next day
   workflow_dispatch:        # adds a manual "Run workflow" button in the Actions tab
 
 jobs:
