@@ -1,1 +1,5 @@
-placeholder
+{
+  "date": "2026-09-01",
+  "opportunity": "Noun imageability / concreteness-reversal speech flag",
+  "note": "See gvu_concreteness.py smoke output: sample A pass1 high (restricted lexicon) -> pass2 medium (full harvest); sample B pass1 unknown FAIL -> pass2 low verified."
+}
