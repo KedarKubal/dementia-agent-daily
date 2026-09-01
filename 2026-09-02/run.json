@@ -1,0 +1,8 @@
+{
+  "date": "2026-09-02",
+  "opportunity": "Composite six-biomarker speech risk flag",
+  "passed": true,
+  "before": {"composite": 0.73, "risk": "medium"},
+  "after": {"composite": 0.63, "risk": "high"},
+  "n_passes": 2
+}
