@@ -1,0 +1,6 @@
+{
+  "date": "2026-09-04",
+  "passes": 2,
+  "first": {"duration_sec": 260, "affect": "punitive", "verify": false},
+  "final": {"duration_sec": 180, "affect": "friendly", "breath": "4-0-4 x12", "verify": true}
+}
