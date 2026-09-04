@@ -1,0 +1,69 @@
+{
+  "sample": {
+    "id": "demo-effort-01",
+    "rest_speech_rate_spm": 118.0,
+    "rest_pause_s": 0.48,
+    "effort_speech_rate_spm": 92.0,
+    "effort_pause_s": 0.81
+  },
+  "features": {
+    "rate_drop_n": 0.65,
+    "pause_rise_n": 0.66,
+    "rest_slow_n": 0.0,
+    "rest_pause_n": 0.16
+  },
+  "passes": [
+    {
+      "draft": {
+        "pass_n": 1,
+        "effort_delta_used": false,
+        "delta_weight": 0.2,
+        "score": 0.08,
+        "band": "low",
+        "rationale": "rest-only (no mental-effort contrast)"
+      },
+      "verify": {
+        "pass": false,
+        "reasons": [
+          "FAIL: effort_delta_used is False — rest-only scores are not the paper's signal",
+          "FAIL: delta_weight 0.2 < 0.70 (effort contrast under-weighted)"
+        ]
+      }
+    },
+    {
+      "draft": {
+        "pass_n": 2,
+        "effort_delta_used": true,
+        "delta_weight": 0.8,
+        "score": 0.54,
+        "band": "medium",
+        "rationale": "effort-delta weighted 0.80: rate_drop=0.65, pause_rise=0.66; rest mix=0.20"
+      },
+      "verify": {
+        "pass": false,
+        "reasons": [
+          "FAIL: large effort-delta sample must land in high band"
+        ]
+      }
+    },
+    {
+      "draft": {
+        "pass_n": 3,
+        "effort_delta_used": true,
+        "delta_weight": 0.95,
+        "score": 0.626,
+        "band": "high",
+        "rationale": "effort-delta weighted 0.95: rate_drop=0.65, pause_rise=0.66; rest mix=0.05"
+      },
+      "verify": {
+        "pass": true,
+        "reasons": [
+          "PASS: effort delta used, weight>=0.70, band matches cutoffs, score in [0,1]"
+        ]
+      }
+    }
+  ],
+  "final_pass": 3,
+  "final_band": "high",
+  "verified": true
+}
