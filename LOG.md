@@ -6,3 +6,4 @@
 - 2026-09-03 | Wrist-sensor gait+run+bedtime incident-risk flag | GVU walk-heavy pass1 high/0.68 → balanced pass2 high/0.744 verified
 - 2026-09-04 | START-length metta+breath cognitive micro-protocol | GVU 260s punitive dual-task → 180s friendly 4-0-4 x12 verified
 - 2026-09-05 | Effort-conditioned vocal biomarker flag | GVU rest-only 0.08/low → delta w=0.95 0.626/high verified
+- 2026-09-06 | Ambient gait 4-week fall-risk flag | GVU speed-heavy 0.626/medium → cv-weighted 0.776/high verified
