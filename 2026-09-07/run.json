@@ -1,0 +1,5 @@
+{
+  "first": {"pass": 1, "score": 0.735, "band": "eoad_like", "verify_pass": false, "reason": "linguistic weights too low (0.35 < 0.45)"},
+  "last": {"pass": 2, "score": 0.746, "band": "eoad_like", "verify_pass": true, "ling_w": 0.467},
+  "n_passes": 2
+}
