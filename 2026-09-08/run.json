@@ -1,0 +1,4 @@
+{
+  "before": {"pass": 1, "risk": 0.809, "band": "high", "weights": {"sound": 0.8, "meaning": 0.15, "knowledge": 0.05}, "verify": false},
+  "after": {"pass": 3, "risk": 0.802, "band": "high", "weights": {"sound": 0.482, "meaning": 0.211, "knowledge": 0.307}, "verify": true}
+}
