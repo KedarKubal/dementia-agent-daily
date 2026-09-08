@@ -9,3 +9,4 @@
 - 2026-09-06 | Ambient gait 4-week fall-risk flag | GVU speed-heavy 0.626/medium → cv-weighted 0.776/high verified
 - 2026-09-07 | Informativeness-weighted story-recall flag | GVU acoustic-heavy 0.735 fail ling_w → dual-channel 0.746 eoad_like pass
 - 2026-09-08 | Savitarka channel-disentangle speech flag | GVU sound-heavy 0.809 fail weights → balanced 0.802 high pass
+- 2026-09-09 | Nirvitarka meaning-only speech flag | GVU impurity-heavy 0.602 fail weights/purity → meaning-dom 0.665 high pass
