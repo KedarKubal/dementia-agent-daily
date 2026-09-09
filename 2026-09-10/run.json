@@ -1,0 +1,5 @@
+{
+  "before": {"score": 0.291, "band": "low", "latent_w": 0.2},
+  "after": {"score": 0.517, "band": "medium", "latent_w": 0.7},
+  "latent_seed": 0.653
+}
