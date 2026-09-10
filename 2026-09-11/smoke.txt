@@ -1,0 +1,2 @@
+BEFORE pass0: burden=0.20 flag=watch features=[pwd_steps] FAIL
+AFTER pass1: burden=0.656 flag=high adl=high features=[d_proximity_hours, d_cg_steps, d_pwd_steps] PASS

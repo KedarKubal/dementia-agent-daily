@@ -11,3 +11,4 @@
 - 2026-09-08 | Savitarka channel-disentangle speech flag | GVU sound-heavy 0.809 fail weights → balanced 0.802 high pass
 - 2026-09-09 | Nirvitarka meaning-only speech flag | GVU impurity-heavy 0.602 fail weights/purity → meaning-dom 0.665 high pass
 - 2026-09-10 | Sabija latent-seed residual risk | GVU surface-ok 0.291/low w=0.20 → seed-aware 0.517/medium w=0.70 verified
+- 2026-09-11 | Dyadic proximity+CG-movement burden/ADL flag | GVU PWD-only 0.20/watch → dyadic 0.656/high verified
