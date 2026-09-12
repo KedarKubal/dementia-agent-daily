@@ -13,3 +13,4 @@
 - 2026-09-10 | Sabija latent-seed residual risk | GVU surface-ok 0.291/low w=0.20 → seed-aware 0.517/medium w=0.70 verified
 - 2026-09-11 | Dyadic proximity+CG-movement burden/ADL flag | GVU PWD-only 0.20/watch → dyadic 0.656/high verified
 - 2026-09-12 | Rtambhara speech+fluid fusion flag | GVU speech-heavy 0.546/low screening → fusion_w=0.55 0.642/medium clinical_grade verified
+- 2026-09-13 | Night-time ambient routine-aware safety flag | GVU naive routine_w=0.20 score 0.703/high → routine_w=0.60 score 0.647/medium verified
