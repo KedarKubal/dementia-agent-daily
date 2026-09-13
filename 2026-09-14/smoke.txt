@@ -1,0 +1,2 @@
+pass1 score=0.167 FAIL naive single-domain 50% dose
+pass2 score=1.000 PASS 3 active domains at full weekly target

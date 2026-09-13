@@ -14,3 +14,4 @@
 - 2026-09-11 | Dyadic proximity+CG-movement burden/ADL flag | GVU PWD-only 0.20/watch → dyadic 0.656/high verified
 - 2026-09-12 | Rtambhara speech+fluid fusion flag | GVU speech-heavy 0.546/low screening → fusion_w=0.55 0.642/medium clinical_grade verified
 - 2026-09-13 | Night-time ambient routine-aware safety flag | GVU naive routine_w=0.20 score 0.703/high → routine_w=0.60 score 0.647/medium verified
+- 2026-09-14 | Klesha-attenuating personalized risk-reduction planner | GVU naive single-domain 0.167 FAIL → 3-domain full-dose 1.000 PASS
