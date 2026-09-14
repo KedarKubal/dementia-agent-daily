@@ -1,0 +1,2 @@
+pass1 binary sick/clinic FAIL binary_label_is_avidya
+pass2 four-state dormant/seed_watch PASS mass=1.0

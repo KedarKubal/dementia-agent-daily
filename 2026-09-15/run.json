@@ -1,0 +1,18 @@
+[
+  {
+    "pass_id": 1,
+    "mode": "binary_collapse",
+    "states": {"dormant": 0.0, "attenuated": 0.0, "interrupted": 0.0, "expanded": 1.0},
+    "label": "sick",
+    "follow_up": "clinic",
+    "notes": "FAIL: binary_label_is_avidya"
+  },
+  {
+    "pass_id": 2,
+    "mode": "four_state_field",
+    "states": {"dormant": 0.4108, "attenuated": 0.1072, "interrupted": 0.2116, "expanded": 0.2704},
+    "label": "dormant",
+    "follow_up": "seed_watch",
+    "notes": "PASS"
+  }
+]
