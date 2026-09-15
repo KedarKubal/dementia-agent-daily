@@ -16,3 +16,4 @@
 - 2026-09-13 | Night-time ambient routine-aware safety flag | GVU naive routine_w=0.20 score 0.703/high → routine_w=0.60 score 0.647/medium verified
 - 2026-09-14 | Klesha-attenuating personalized risk-reduction planner | GVU naive single-domain 0.167 FAIL → 3-domain full-dose 1.000 PASS
 - 2026-09-15 | Four-state avidya-field speech risk flag | GVU binary sick collapse FAIL → four-state dormant/seed_watch PASS
+- 2026-09-16 | Asmita/Raga seer-vs-instrument speech flag | GVU fluency-collapse 0.354/medium FAIL → seer-weighted 0.592/medium PASS

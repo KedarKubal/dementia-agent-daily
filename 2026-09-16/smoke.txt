@@ -1,0 +1,2 @@
+PASS 1: fused=0.354 medium FAIL asmita+raga inst_w=0.85
+PASS 2: fused=0.592 medium PASS inst_w=0.40 seer_w=0.60
