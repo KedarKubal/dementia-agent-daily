@@ -1,0 +1,2 @@
+BEFORE pass1: low 0.388 FAIL horizon=1 pause_w=0.10 demo_w=0.10
+AFTER  pass3: medium 0.532 PASS horizon=6 pause_w=0.304 demo_w=0.222
