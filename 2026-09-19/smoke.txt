@@ -1,0 +1,3 @@
+pass1 FAIL unknown/0y/w=0.1 composite 0.686 medium
+pass2 FAIL bhoga w=0.15 typical_ad 3.07y 0.647 medium
+pass3 PASS typical_ad 2.67y bhoga 0.63 composite 0.708 high

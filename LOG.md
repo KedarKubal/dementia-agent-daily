@@ -19,3 +19,4 @@
 - 2026-09-16 | Asmita/Raga seer-vs-instrument speech flag | GVU fluency-collapse 0.354/medium FAIL → seer-weighted 0.592/medium PASS
 - 2026-09-17 | CCT2x aversion-safe dose planner | GVU short test-framed 2.17 FAIL → 7x55min 2x 25.67 PASS
 - 2026-09-18 | MCI-to-AD 6-year pause-aware speech progression flag | GVU 1y fluency-only 0.388/low FAIL → 6y pause+demo 0.532/medium PASS
+- 2026-09-19 | Vipaka triad phenotype/life/bhoga flag | GVU current-state only FAIL → full triad w>=0.25 each 0.708/high PASS
