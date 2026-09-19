@@ -20,3 +20,4 @@
 - 2026-09-17 | CCT2x aversion-safe dose planner | GVU short test-framed 2.17 FAIL → 7x55min 2x 25.67 PASS
 - 2026-09-18 | MCI-to-AD 6-year pause-aware speech progression flag | GVU 1y fluency-only 0.388/low FAIL → 6y pause+demo 0.532/medium PASS
 - 2026-09-19 | Vipaka triad phenotype/life/bhoga flag | GVU current-state only FAIL → full triad w>=0.25 each 0.708/high PASS
+- 2026-09-20 | Two-stage PSD+fluid inflection flag | GVU speech-only fluid_w=0.15 FAIL → dual-channel aw=0.65/fw=0.35 post_inflection PASS
