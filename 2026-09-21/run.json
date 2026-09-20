@@ -1,0 +1,45 @@
+{
+  "sample": {
+    "speech_slowing": 0.72,
+    "gait_variability": 0.68,
+    "dual_task_cost": 0.41
+  },
+  "log": [
+    {
+      "pass": 1,
+      "candidate": {
+        "speech_slowing": 0.72,
+        "gait_variability": 0.68,
+        "speech_w": 0.8,
+        "gait_w": 0.2,
+        "dual_task_cost": 0.41,
+        "band": "medium",
+        "notes": "pass1-naive-speech-dominant"
+      },
+      "verify": {
+        "pass": false,
+        "reason": "gait_w 0.20 < 0.30 — raise gait",
+        "score": 0.561,
+        "band": "medium"
+      }
+    },
+    {
+      "pass": 2,
+      "candidate": {
+        "speech_slowing": 0.72,
+        "gait_variability": 0.68,
+        "speech_w": 0.45,
+        "gait_w": 0.55,
+        "dual_task_cost": 0.41,
+        "band": "medium",
+        "notes": "pass3-gait-lifted-to-meet-floor"
+      },
+      "verify": {
+        "pass": true,
+        "reason": "PASS: junction-aware dual-task flag",
+        "score": 0.554,
+        "band": "medium"
+      }
+    }
+  ]
+}

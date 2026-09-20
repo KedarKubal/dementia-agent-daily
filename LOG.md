@@ -21,3 +21,4 @@
 - 2026-09-18 | MCI-to-AD 6-year pause-aware speech progression flag | GVU 1y fluency-only 0.388/low FAIL → 6y pause+demo 0.532/medium PASS
 - 2026-09-19 | Vipaka triad phenotype/life/bhoga flag | GVU current-state only FAIL → full triad w>=0.25 each 0.708/high PASS
 - 2026-09-20 | Two-stage PSD+fluid inflection flag | GVU speech-only fluid_w=0.15 FAIL → dual-channel aw=0.65/fw=0.35 post_inflection PASS
+- 2026-09-21 | Samyoga dual-task (speech×gait) future-risk flag | GVU speech-heavy gw=0.20 FAIL → junction-balanced score 0.554 medium PASS

@@ -1,0 +1,2 @@
+BEFORE: FAIL gait_w=0.20 score=0.561
+AFTER:  PASS junction-balanced sw=0.45 gw=0.55 score=0.554 medium
