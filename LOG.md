@@ -22,3 +22,4 @@
 - 2026-09-19 | Vipaka triad phenotype/life/bhoga flag | GVU current-state only FAIL → full triad w>=0.25 each 0.708/high PASS
 - 2026-09-20 | Two-stage PSD+fluid inflection flag | GVU speech-only fluid_w=0.15 FAIL → dual-channel aw=0.65/fw=0.35 post_inflection PASS
 - 2026-09-21 | Samyoga dual-task (speech×gait) future-risk flag | GVU speech-heavy gw=0.20 FAIL → junction-balanced score 0.554 medium PASS
+- 2026-09-22 | ACTIVE speed-of-processing booster planner | GVU 2wk/8min/no-booster FAIL → 6wk×4×15min +5 boosters@18mo 7.25h PASS
