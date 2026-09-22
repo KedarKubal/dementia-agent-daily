@@ -1,0 +1,2 @@
+BEFORE: score=0.597 band=high cw=0.10 rw=0.20 FAIL (coloring ignored)
+AFTER:  score=0.436 band=medium cw=0.50 rw=0.45 PASS
