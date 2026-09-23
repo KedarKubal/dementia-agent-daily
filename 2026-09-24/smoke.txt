@@ -1,0 +1,2 @@
+before: score=0.735 band=high rw=0.2 pass=False
+after:  score=0.462 band=medium rw=0.7 pass=True
