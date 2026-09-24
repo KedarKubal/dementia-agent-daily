@@ -25,3 +25,4 @@
 - 2026-09-22 | ACTIVE speed-of-processing booster planner | GVU 2wk/8min/no-booster FAIL → 6wk×4×15min +5 boosters@18mo 7.25h PASS
 - 2026-09-23 | Coloring-corrected residual speech flag | GVU raw-heavy 0.597/high FAIL → coloring_w=0.50 residual 0.436/medium PASS
 - 2026-09-24 | Common-field residual speech flag | GVU raw-cutoff 0.735/high FAIL → residual_w=0.70 0.462/medium PASS
+- 2026-09-25 | CharMark character-level Markov speech flag | GVU wordlen-heavy 0.429/medium FAIL → char_w=0.80 0.710/high PASS
