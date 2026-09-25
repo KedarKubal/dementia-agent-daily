@@ -1,0 +1,5 @@
+{
+  "note": "smoke 2026-09-26",
+  "before": {"mode": "binary", "score": 0.383, "band": "medium", "populated": 1, "verify": "FAIL"},
+  "after": {"mode": "sevenfold", "score": 0.421, "band": "medium", "populated": 7, "verify": "PASS"}
+}
