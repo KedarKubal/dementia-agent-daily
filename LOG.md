@@ -27,3 +27,4 @@
 - 2026-09-24 | Common-field residual speech flag | GVU raw-cutoff 0.735/high FAIL → residual_w=0.70 0.462/medium PASS
 - 2026-09-25 | CharMark character-level Markov speech flag | GVU wordlen-heavy 0.429/medium FAIL → char_w=0.80 0.710/high PASS
 - 2026-09-26 | Seven-grade Viveka speech flag | GVU binary fluency dump 0.383 FAIL → sevenfold ladder 0.421/medium PASS
+- 2026-09-27 | Ashtanga-gated DTx planner | GVU 5-limb placeholder FAIL → 8-limb 33min ordered protocol PASS

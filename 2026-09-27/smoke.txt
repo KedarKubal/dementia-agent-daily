@@ -1,0 +1,3 @@
+=== SMOKE ===
+pass1 pass=False minutes=20 reasons=["limbs must be exactly ['yama', 'niyama', 'asana', 'pranayama', 'pratyahara', 'dharana', 'dhyana', 'samadhi'] in order; got ['asana', 'pranayama', 'dhyana', 'memory_game', 'samadhi']", "pranayama: impurity_target is a placeholder", "dhyana: impurity_target is a placeholder", "samadhi: minutes must be > 0", "samadhi: impurity_target is a placeholder", "samadhi: measurable_check is a placeholder"]
+final pass=True minutes=33 reasons=[]
